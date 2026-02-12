@@ -47,7 +47,7 @@ I'm passionate about building AI systems that solve real-world problems. Current
 
 ### 📊 Featured Projects:
 
-#### 🚗 [Driver Drowsiness Detection System](link-to-repo)
+#### 🚗 [Driver Drowsiness Detection System](https://github.com/aatif-pathan001/Safe-Drive-Vision)
 Real-time driver safety system using YOLO, MediaPipe, and OpenCV
 - Multi-modal detection (drowsiness, distraction, phone usage)
 - 30+ FPS on standard hardware
@@ -59,7 +59,7 @@ Automated market intelligence system with LLM integration
 - Gemini LLM for sentiment analysis and signal extraction
 - Gradio web interface
 
-#### 🔢 [Handwritten Digit Recognition](link-to-repo)
+#### 🔢 [Handwritten Digit Recognition](https://github.com/aatif-pathan001/DigitNet2.0)
 End-to-end ML web application with deployment
 - LeNet CNN in PyTorch (98%+ accuracy)
 - Streamlit deployment
